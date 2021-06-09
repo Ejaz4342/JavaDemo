@@ -39,9 +39,6 @@ public class BuildingInfo {
 
         }
 
-
-
-
         for (int i=0;i<floors;i++){
             int k=0;
             if (i==0||i==20||i==30){
@@ -63,9 +60,5 @@ public class BuildingInfo {
             }
             System.out.println();
         }
-
-
-
-
     }
 }
